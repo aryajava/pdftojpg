@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-Project yang dibukan karena iseng saja.
+Project yang dibikin karena iseng saja.
 Dikarenaka tiba-tiba butuh convert pdf ke jpg 😂
 
 ## Prerequisites <a name = "prerequisites"></a>
